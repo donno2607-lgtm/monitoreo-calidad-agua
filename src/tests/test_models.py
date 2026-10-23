@@ -1,4 +1,3 @@
-
 import unittest
 from src.models import SensorPH, SensorTurbidez
 from src.exceptions import SensorMalfunctionException, WaterQualityAlertException
